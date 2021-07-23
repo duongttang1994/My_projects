@@ -1,2 +1,2 @@
 # My_projects
-Projects go here
+Hello to whoever is viewing this page. This is where I will post most of my projects.
